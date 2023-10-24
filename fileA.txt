@@ -1,1 +1,2 @@
 calculate 100/2=50
+count numbers 1-100
